@@ -1,0 +1,8 @@
+@inproceedings{REPO345,
+    author = "Ryabinin, Max and Dettmers, Tim and Diskin, Michael and Borzunov, Alexander",
+    booktitle = "Proceedings of the 40th International Conference on Machine Learning",
+    pages = "29416--29440",
+    title = "{{SWARM} Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient}",
+    volume = "202",
+    year = "2023"
+}
